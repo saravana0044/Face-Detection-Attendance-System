@@ -1,0 +1,10 @@
+# Face Detection Attendance System
+# This is an Android/Kotlin project, so pip packages are not required.
+# Development requirements:
+# - Android Studio
+# - JDK 17
+# - Android SDK 35
+# - Kotlin 2.0.21
+# - Gradle/Android Gradle Plugin 8.7.3
+# Main AI dependency is managed in app/build.gradle.kts:
+# com.google.mlkit:face-detection
